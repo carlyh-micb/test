@@ -1,6 +1,6 @@
 # readme
 
 list
-* 1 with 2 and three
+* 1
 * 2
 * 3
